@@ -1,3 +1,5 @@
+> NOTE: `self.client.is_stopped()` is deprecated so this is the work around using `self.client:is_stopped()`
+
 # copilot-cmp
 
 This repository transforms https://github.com/zbirenbaum/copilot.lua into a cmp source.
